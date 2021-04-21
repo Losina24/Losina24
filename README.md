@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 <!--<img src="https://www.codewars.com/users/Losina24/badges/large" styles="margin: 0 auto;">-->
-<img src="https://i.imgur.com/Uujriip.gif">
+<img align="center" src="https://i.imgur.com/Uujriip.gif">
 
 <!--
 **Losina24/Losina24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
