@@ -1,7 +1,5 @@
 <!--### Hi there 👋-->
 <!--<img src="https://www.codewars.com/users/Losina24/badges/large" styles="margin: 0 auto;">-->
-<center><h1>Welcome 👋</h1></center>
-<br>
 <img align="center" src="https://i.imgur.com/Uujriip.gif">
 
 <!--
