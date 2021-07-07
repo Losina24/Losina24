@@ -1,7 +1,6 @@
 <!--### Hi there 👋-->
 <!--<img src="https://www.codewars.com/users/Losina24/badges/large" styles="margin: 0 auto;">-->
 <img align="center" src="https://i.imgur.com/Uujriip.gif">
-https://github-readme-stats.vercel.app/api?username=Losina24
 
 
 <!--
