@@ -4,9 +4,9 @@
 
 <img align="center" src="https://i.imgur.com/Uujriip.gif">
 
-
+ 
 <!--
-**Losina24/Losina24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Losina24/Losina24** is  a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
